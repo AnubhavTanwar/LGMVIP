@@ -2,8 +2,8 @@
 LetsGrowMore - Internship
 Data Science and Bussines analytics 
 
-TASK-04
+TASK-02
 
-Prediction using Decision Tree  Algorithm
+Stock Market Prediction And Forecasting Using Stacked LSTM
  
  AUTHOR :- Anubhav
